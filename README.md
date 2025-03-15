@@ -1,4 +1,6 @@
 # Data Quality Analyzer for ML Projects
+![data-quality-analyzer_img](https://github.com/user-attachments/assets/a7df0334-2081-439e-bb2c-a152f0e71c69)
+
 
 A comprehensive Python tool for analyzing data quality in datasets intended for machine learning projects. This tool generates detailed reports about various aspects of data quality, helping data scientists and ML engineers identify potential issues before model development.
 
